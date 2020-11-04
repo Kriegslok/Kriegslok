@@ -18,7 +18,7 @@ public class Solution {
     public boolean equals(Solution n) {
         boolean bul = n.first == first && n.last == last;
         System.out.println(bul);
-        return bul;///iikkij
+        return bul;
     }
 
     public int hashCode() {
